@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   viewBox="0 0 508 285.74999"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="tree1.svg"
+   inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\tree1.png"
+   inkscape:export-xdpi="300.082"
+   inkscape:export-ydpi="300.082">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="841.23494"
+     inkscape:cy="558.06639"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     width="1920mm"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Ground"
+     transform="translate(0,-11.25001)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#784421;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -6.4144686,246.75334 71.6282326,-8.55263 84.457166,5.34539 c 0,0 57.73022,7.48355 62.00653,7.48355 4.27632,0 51.31575,-3.20724 59.86838,-5.34539 8.55263,-2.13816 102.6315,8.55262 102.6315,8.55262 l 56.66113,-7.48354 c 0,0 41.69405,8.55262 50.24668,8.55262 8.55263,0 42.76312,-3.20723 42.76312,-3.20723 v 64.14469 L -8.5526247,311.96709 Z"
+       id="path820"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\ground.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+  </g>
+  <g
+     inkscape:label="Tree"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(0,-11.25001)"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#668000;fill-opacity:1;stroke:#000000;stroke-width:0.44792119px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 351.33775,145.2206 15.83642,4.52469 11.76417,-5.88209 23.98085,-6.33457 23.98083,2.26235 23.07591,4.07222 c 0,0 9.95432,-9.50184 13.57408,-11.31171 3.61974,-1.80989 16.28887,-14.47902 16.28887,-14.47902 l 2.26235,-27.600582 V 51.559579 L 429.16238,39.34292 402.46672,16.267028 370.79392,-0.02184096 338.21617,-3.6415966 c 0,0 -0.90494,10.4067823 -2.71482,10.859251 -1.80988,0.4524698 -29.4105,-5.4296339 -29.4105,-5.4296339 l -19.00369,-9.0493738 -20.81355,-7.2394937 c 0,0 -6.78704,4.9771681 -8.59692,8.5969022 -1.80987,3.6197567 -14.47898,16.2888858 -15.83639,20.8135648 -1.35741,4.524695 -9.95431,27.600586 -9.95431,27.600586 0,0 0.90494,33.482693 2.26234,37.102424 1.35742,3.619756 26.69566,20.361095 26.69566,20.361095 v 23.075925 l 14.93145,9.9543 27.14814,2.26234 17.64628,11.31171 7.69197,-4.07221 z"
+       id="path817"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\tree1.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+    <path
+       style="fill:#502d16;fill-opacity:1;stroke:#000000;stroke-width:0.44792119px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 305.70206,293.62127 14.47898,-7.69197 3.16729,-117.64188 -6.33457,-52.48638 -9.86645,-10.67573 -15.49842,-10.64909 4.01732,-1.453057 18.66709,13.729957 12.63479,3.6183 2.7148,-8.14443 -2.26235,-11.311731 1.3574,-11.311703 -7.69195,-14.931469 3.16728,-2.262347 8.5969,17.193816 -0.45246,9.954295 20.81354,-20.813555 3.16729,-8.596887 2.26235,2.7148 -4.07224,11.764191 -15.38392,17.1938 2.71481,12.21667 7.69197,6.78702 14.93146,0.45247 10.85925,-5.42962 4.52469,-11.311724 11.31173,-6.787027 3.16727,-7.691977 19.90863,-10.406776 6.78704,-8.144435 4.52467,1.357408 -7.69196,10.859252 -16.28886,9.954306 -5.88211,4.524677 9.04938,5.42964 20.81355,-4.072233 8.59691,-5.429617 4.07223,3.16729 -18.55121,8.144433 -19.45617,1.357408 -6.78704,-3.167281 -11.76419,7.691956 -3.61974,8.59692 13.57406,4.52469 28.50551,-5.88211 21.71851,-3.61974 -1.35741,6.78703 -46.1518,7.69196 -19.90863,-1.80988 -13.57404,3.1673 -10.85926,2.26234 -4.97717,23.0759 3.1673,53.84378 1.3574,74.20487 2.71482,12.66913 15.38393,6.78704 h -22.17097 l -9.9543,6.33454 -6.78705,-2.7148 -3.16726,-5.42965 -23.07591,9.04939 7.69197,-6.33454 z"
+       id="path815"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\tree1.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Eggs"
+     style="display:inline">
+    <path
+       style="fill:#c8b7b7;fill-opacity:1;stroke:#000000;stroke-width:0.345;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path953"
+       sodipodi:type="arc"
+       sodipodi:cx="353.64444"
+       sodipodi:cy="86.3993"
+       sodipodi:rx="4.3935976"
+       sodipodi:ry="5.3877807"
+       sodipodi:start="1.1810224"
+       sodipodi:end="1.1741627"
+       d="m 355.31392,91.38297 a 4.3935976,5.3877807 0 0 1 -5.73067,-2.927882 4.3935976,5.3877807 0 0 1 2.37778,-7.032407 4.3935976,5.3877807 0 0 1 5.73882,2.903761 4.3935976,5.3877807 0 0 1 -2.3581,7.042367"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\egg.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082"
+       sodipodi:open="true" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Nest"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 337.0945,83.442034 2.45123,5.541365 2.23556,7.700334 1.96458,1.65519 -2.37104,-5.037578 -2.43877,-9.427516 z"
+       id="path823"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 340.97231,84.521523 -1.64689,0.575725 1.88003,7.484441 0.16938,0.719656 2.37104,5.037578 2.33714,0.683663 -3.75976,-7.016623 z"
+       id="path825"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 342.32325,92.005958 6.36791,6.476905 0.60966,0.899543 -3.21781,-0.35982 z"
+       id="path827"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 344.49105,94.092968 16.59723,-3.022562 -18.76503,0.935552 z"
+       id="path831"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 348.62341,93.517244 12.87133,1.727182 -15.31012,0.431791 -1.69357,-1.583251 z"
+       id="path833"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 348.69116,98.482863 17.2069,-2.230932 -4.40332,-1.007505 -15.31012,0.431791 z"
+       id="path835"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 347.67919,100.49787 -1.59618,-1.475284 22.79581,-3.274413 1.01612,1.727167 -20.59412,1.907066 z"
+       id="path837"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 354.72033,91.214337 -12.80358,-1.799141 0.4065,2.59076 z"
+       id="path839"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 370.64014,87.831949 -23.98133,2.158972 8.06152,1.223416 6.36795,-0.143941 13.48103,-1.583242 z"
+       id="path841"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 340.96834,86.104766 3.95936,2.171764 4.44044,0.260923 3.38766,0.733807 -6.09699,0.719656 -4.74206,-0.57572 z"
+       id="path843"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 355.46552,94.308864 16.80045,-4.533843 -13.27776,1.583252 -10.3648,2.158971 z"
+       id="path845"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 362.37538,92.509722 13.00684,2.087008 -2.7775,1.295379 -3.7259,-0.14394 -13.4133,-1.439316 z"
+       id="path847"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 361.49474,95.244426 4.40332,1.007505 2.98076,-0.503758 z"
+       id="path849"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 356.54024,100.71375 3.55135,-0.1322 20.64242,0.38409 -4.60661,-1.475241 -11.99063,0.431799 -3.81939,-1.6552 -11.01656,1.115408 z"
+       id="path851"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 357.72663,98.482848 6.61334,-0.21588 5.69049,1.295349 -5.89369,0.359832 z"
+       id="path853"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 380.73401,100.96564 -18.0009,1.6912 -6.19287,-1.94309 18.09679,0.64772 z"
+       id="path857"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 384.79035,85.601009 -2.51496,7.700336 -2.21884,2.806659 -0.60971,-0.575727 4.06463,-10.722891 -0.60967,-6.548887 1.60069,3.382388 z"
+       id="path859"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 382.9018,78.260499 -3.62564,5.496189 -6.95009,2.132181 -14.31852,3.09453 15.47783,-1.655212 8.53571,-3.454358 1.15165,-3.094527 z"
+       id="path861"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 377.07582,85.960837 5.01963,4.042556 -2.98731,-0.08445 -5.62276,-2.590772 z"
+       id="path863"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 367.65942,90.998442 11.44872,-1.079494 2.98731,0.08445 -1.56468,2.506332 -13.34553,0.719656 -4.80986,-0.719658 z"
+       id="path865"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 370.64014,87.831949 3.92917,1.655204 4.53883,0.431795 -5.62276,-2.590773 z"
+       id="path867"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 368.40461,97.835177 11.3132,1.223398 0.74518,-1.475286 -9.00992,-1.835116 h -2.57425 l -1.05005,2.051026 z"
+       id="path871"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 364.33997,98.266968 3.4888,-0.467784 13.51491,1.475291 -0.60967,1.691165 -4.60661,-1.475278 -6.09694,0.07186 z"
+       id="path873"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 346.5383,101.62393 10.00194,-0.91018 -7.04018,-1.367272 -1.82087,1.151392 -3.93332,-2.158947 z"
+       id="path875"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 379.98882,94.021004 -4.6066,0.575726 -8.19698,-1.367352 11.31319,-0.575724 z"
+       id="path877"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 375.38222,94.59673 4.6066,-0.575726 -0.54198,1.511273 z"
+       id="path881"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 377.30213,89.986242 -7.6164,0.763313 2.58024,-0.974534 2.30334,-0.287868 z"
+       id="path883"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 378.73919,87.441868 4.77228,-2.632482 -0.33873,-4.030087 -1.15165,3.09453 -4.94527,2.087005 z"
+       id="path885"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 380.75111,86.475008 1.38915,1.424847 -0.0447,2.103535 -3.35626,-2.561522 z"
+       id="path887"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 383.51147,84.809386 -2.76036,1.665622 1.38915,1.424847 z"
+       id="path889"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 380.05655,96.108004 0.40644,1.475285 -7.85827,-1.69118 2.7775,-1.295379 4.06462,0.935547 z"
+       id="path891"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 380.53077,92.509722 -0.54195,1.511282 -1.49039,-1.36735 z"
+       id="path893"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+    <path
+       style="fill:#d4aa00;stroke:#000000;stroke-width:0.45695439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 383.17274,80.779299 -1.15165,3.09453 -4.94527,2.087005 1.66347,1.481034 4.77218,-2.632482 z"
+       id="path895"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\nest.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082" />
+  </g>
+</svg>
