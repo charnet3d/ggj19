@@ -1,2 +1,2 @@
-# ggj19
+# GGJ19
 Global Game Jam 2019 Entry
