@@ -14,9 +14,9 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:export-filename="C:\Users\Char\Desktop\bird.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\bird.png"
+   inkscape:export-xdpi="300.08206"
+   inkscape:export-ydpi="300.08206"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="bird.svg">
   <defs
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="275.18581"
-     inkscape:cy="849.34493"
+     inkscape:cx="357.82134"
+     inkscape:cy="758.30826"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,45 +55,88 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 88.582466,90.094398 107.02407,90.628938 93.927856,64.436527 Z"
+       id="path3717-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 60.652801,93.034363 79.094396,93.568903 65.998191,67.37649 Z"
+       id="path3717-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 105.80532,89.0309 -8.151718,-6.815373 -1.603616,-9.087162 -1.88827,-7.255264 z"
+       id="path850-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#b3b3b3;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 65.773964,93.047688 66.442141,86.098679 64.437618,77.011515 60.945731,92.74143 Z"
+       id="path854"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#b3b3b3;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 77.963075,92.187934 -8.15172,-6.815373 -1.603616,-9.087162 -1.88827,-7.255264 z"
+       id="path850"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 93.788675,89.928185 0.668177,-6.949009 -2.004523,-9.087164 -3.491887,15.729915 z"
+       id="path854-1"
+       inkscape:connector-curvature="0" />
     <rect
        id="rect3713"
        width="47.625"
        height="12.530196"
-       x="79.258926"
-       y="69.550041"
-       style="fill:#f2f2f2;stroke-width:0.15522321"
+       x="55.588192"
+       y="97.841621"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\rect3713.png" />
     <ellipse
-       style="fill:#f2f2f2;stroke-width:0.20662415"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3715"
-       cx="138.1438"
-       cy="76.768105"
+       cx="114.47307"
+       cy="105.05968"
        rx="7.5180955"
        ry="7.218071"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 148.33459,82.115297 11.75986,-1.603616 -10.95805,-5.34539 z"
+       style="fill:#d70000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 124.66386,110.40688 11.75986,-1.60362 -10.95805,-5.34538 z"
        id="path3717"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 112.2532,61.802814 18.4416,0.53454 -13.09621,-26.192411 z"
-       id="path3717-7"
-       inkscape:connector-curvature="0"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       d="M 52.117558,104.8332 33.40869,101.09143 30.86963,91.870635 52.518462,99.354171 Z"
+       id="path842"
+       inkscape:connector-curvature="0" />
     <path
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 84.323535,64.742779 102.76513,65.277319 89.668925,39.084906 Z"
-       id="path3717-8"
-       inkscape:connector-curvature="0"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 121.8749,104.0314 -5.21175,-1.20271 -5.61266,-1.20272 -3.60814,1.87089 2.27179,-4.409948 5.47903,-1.202711 4.94448,2.271789 z"
+       id="path844"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.67783386;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path848"
+       ry="1.1358945"
+       rx="1.1358924"
+       cy="102.89551"
+       cx="117.39814" />
+    <path
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 51.855662,102.16051 -13.764381,-3.340866 -7.750816,-6.949008 21.64883,7.483535 z"
+       id="path892"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
