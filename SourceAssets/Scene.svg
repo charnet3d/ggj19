@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="tree1.svg"
+   sodipodi:docname="Scene.svg"
    inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\tree1.png"
    inkscape:export-xdpi="300.082"
    inkscape:export-ydpi="300.082">
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="760.70637"
-     inkscape:cy="318.14179"
+     inkscape:zoom="2.8"
+     inkscape:cx="1363.9504"
+     inkscape:cy="739.65828"
      inkscape:document-units="mm"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -100,21 +100,6 @@
      inkscape:label="Eggs"
      style="display:inline">
     <path
-       style="fill:#c8b7b7;fill-opacity:1;stroke:#000000;stroke-width:0.345;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path953"
-       sodipodi:type="arc"
-       sodipodi:cx="353.64444"
-       sodipodi:cy="86.3993"
-       sodipodi:rx="4.3935976"
-       sodipodi:ry="5.3877807"
-       sodipodi:start="1.1810224"
-       sodipodi:end="1.1741627"
-       d="m 355.31392,91.38297 a 4.3935976,5.3877807 0 0 1 -5.73067,-2.927882 4.3935976,5.3877807 0 0 1 2.37778,-7.032407 4.3935976,5.3877807 0 0 1 5.73882,2.903761 4.3935976,5.3877807 0 0 1 -2.3581,7.042367"
-       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\egg.png"
-       inkscape:export-xdpi="300.082"
-       inkscape:export-ydpi="300.082"
-       sodipodi:open="true" />
-    <path
        style="fill:#445500;fill-opacity:1;stroke:#000000;stroke-width:0.93483299px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 861.54883,1037.8574 -24.96875,35 -21.22266,-0.7148 -32.45898,-32.8574 -39.32617,28.5722 38.07617,-2.8574 30.58789,30.7148 24.96875,-0.7148 26.2168,-30.7148 h 34.95703 l 19.97461,29.2871 h 38.70312 l 23.71875,-30 26.21871,-2.8575 10.6114,-10.7148 -11.2364,-11.4277 -29.96285,1.4277 -19.19336,30.7148 h -34.49023 l -24.34375,-32.8574 z"
        id="path866"
@@ -123,6 +108,66 @@
        inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\snake.png"
        inkscape:export-xdpi="300.082"
        inkscape:export-ydpi="300.082" />
+    <path
+       style="display:inline;fill:#c8b7b7;fill-opacity:1;stroke:#000000;stroke-width:0.345;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path953-6"
+       sodipodi:type="arc"
+       sodipodi:cx="358.36044"
+       sodipodi:cy="86.086723"
+       sodipodi:rx="4.3935981"
+       sodipodi:ry="5.3877807"
+       sodipodi:start="1.1810224"
+       sodipodi:end="1.1741627"
+       d="m 360.02992,91.070393 a 4.3935981,5.3877807 0 0 1 -5.73066,-2.927881 4.3935981,5.3877807 0 0 1 2.37778,-7.032408 4.3935981,5.3877807 0 0 1 5.73882,2.903762 4.3935981,5.3877807 0 0 1 -2.3581,7.042367"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\egg.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082"
+       sodipodi:open="true" />
+    <path
+       style="display:inline;fill:#c8b7b7;fill-opacity:1;stroke:#000000;stroke-width:0.345;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path953-0"
+       sodipodi:type="arc"
+       sodipodi:cx="369.28271"
+       sodipodi:cy="87.406982"
+       sodipodi:rx="4.3935981"
+       sodipodi:ry="5.3877807"
+       sodipodi:start="1.1810224"
+       sodipodi:end="1.1741627"
+       d="m 370.95219,92.390653 a 4.3935981,5.3877807 0 0 1 -5.73066,-2.927882 4.3935981,5.3877807 0 0 1 2.37778,-7.032408 4.3935981,5.3877807 0 0 1 5.73882,2.903762 4.3935981,5.3877807 0 0 1 -2.3581,7.042367"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\egg.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082"
+       sodipodi:open="true" />
+    <path
+       style="fill:#c8b7b7;fill-opacity:1;stroke:#000000;stroke-width:0.345;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path953"
+       sodipodi:type="arc"
+       sodipodi:cx="353.05084"
+       sodipodi:cy="87.289001"
+       sodipodi:rx="4.3935976"
+       sodipodi:ry="5.3877807"
+       sodipodi:start="1.1810224"
+       sodipodi:end="1.1741627"
+       d="m 354.72032,92.272672 a 4.3935976,5.3877807 0 0 1 -5.73066,-2.927882 4.3935976,5.3877807 0 0 1 2.37778,-7.032408 4.3935976,5.3877807 0 0 1 5.73882,2.903762 4.3935976,5.3877807 0 0 1 -2.3581,7.042367"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\egg.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082"
+       sodipodi:open="true" />
+    <path
+       style="display:inline;fill:#c8b7b7;fill-opacity:1;stroke:#000000;stroke-width:0.345;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path953-3"
+       sodipodi:type="arc"
+       sodipodi:cx="364.90375"
+       sodipodi:cy="86.028931"
+       sodipodi:rx="4.3935981"
+       sodipodi:ry="5.3877807"
+       sodipodi:start="1.1810224"
+       sodipodi:end="1.1741627"
+       d="m 366.57322,91.012601 a 4.3935981,5.3877807 0 0 1 -5.73066,-2.927882 4.3935981,5.3877807 0 0 1 2.37778,-7.032407 4.3935981,5.3877807 0 0 1 5.73882,2.903761 4.3935981,5.3877807 0 0 1 -2.3581,7.042367"
+       inkscape:export-filename="C:\Users\Char\OneDrive\Documents\git\ggj19\Assets\Sprites\egg.png"
+       inkscape:export-xdpi="300.082"
+       inkscape:export-ydpi="300.082"
+       sodipodi:open="true" />
   </g>
   <g
      inkscape:groupmode="layer"
