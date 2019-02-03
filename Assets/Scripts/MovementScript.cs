@@ -6,6 +6,7 @@ public class MovementScript : MonoBehaviour
 {
     Rigidbody2D thisRigidbody;
     Transform thisTransform;
+    Collider2D thisCollider;
 
     [SerializeField]
     float speed = 10.0f;
@@ -30,6 +31,7 @@ public class MovementScript : MonoBehaviour
     {
         thisRigidbody = GetComponent<Rigidbody2D>();
         thisTransform = GetComponent<Transform>();
+        thisCollider = GetComponent<Collider2D>();
 
         currentDashTime = maxDashTime;
     }
@@ -43,6 +45,7 @@ public class MovementScript : MonoBehaviour
         {
             currentDash = new Vector2(dashSpeed * thisTransform.localScale.x, -(dashSpeed * 2 / 3));
             currentDashTime = 0.0f;
+            thisCollider.enabled = true;
         }
 
         // Stop the player at the edges of the screen
@@ -79,10 +82,13 @@ public class MovementScript : MonoBehaviour
         if (currentDashTime < maxDashTime)
             currentDashTime += dashStoppingSpeed;
         else
+        {
             currentDash = Vector3.zero;
+            thisCollider.enabled = false;
+        }
 
-        // Apply movement and dash
-        thisRigidbody.velocity = currentMovement + currentDash;
+            // Apply movement and dash
+            thisRigidbody.velocity = currentMovement + currentDash;
 
         // Flip player sprite according to movement direction
         if ((thisRigidbody.velocity.x > 0 && thisTransform.localScale.x < 0) || (thisRigidbody.velocity.x < 0 && thisTransform.localScale.x > 0))

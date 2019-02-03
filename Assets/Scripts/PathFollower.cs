@@ -5,71 +5,76 @@ using UnityEngine;
 public class PathFollower : MonoBehaviour
 {
     [SerializeField]
-    float moveSpeed = 0;
+    float pathDurationStep = 0.2f;
 
-    [SerializeField]
-    GameObject path = null;
+    float nodeDurationStep;
 
-    Transform tr;
+    Transform thisTransform;
+    Animator thisAnimator;
     PathNode[] nodes;
-    Animator anim;
 
-    int currentNode = 0;
+    int currentNode;
     float timer;
-    static Vector3 currentNodePosition;
-    Quaternion currentNodeRotation;
-    Vector3 startPosition;
-    Vector3 previousPosition;
-    Quaternion startRotation;
+    Vector3 targetNodePosition;
+    Quaternion targetNodeRotation;
+    Vector3 startNodePosition;
+    Quaternion startNodeRotation;
+
+    float pathDistance;
 
 
     // Start is called before the first frame update
     void Start()
     {
-        tr = GetComponent<Transform>();
+        thisTransform = GetComponent<Transform>();
+        thisAnimator = GetComponent<Animator>();
+
+        GameObject path = GameObject.Find("Path");
         nodes = path.GetComponentsInChildren<PathNode>();
-        anim = GetComponent<Animator>();
+        currentNode = 0;
 
-        previousPosition = Vector3.zero;
-        CheckNode();
+        // Calculate total path distance
+        for (int i = 0; i < nodes.Length - 1; i++)
+        {
+            pathDistance += Vector3.Distance(nodes[i].GetPosition(), nodes[i + 1].GetPosition());
+        }
+
+        AdvanceNode();
     }
 
-    void CheckNode()
-    {
-        timer = 0;
-        currentNodePosition = nodes[currentNode].GetPosition();
-        startPosition = tr.position;
-        startRotation = tr.rotation;
-        currentNodeRotation = Quaternion.Euler(0, 0, Vector3.Angle(currentNodePosition - startPosition, 
-            Vector3.right));
-    }
-
-    // Update is called once per frame
     void Update()
     {
-        timer += Time.deltaTime * moveSpeed;
-
-        if (tr.position != currentNodePosition)
+        if (thisTransform.position != targetNodePosition)
         {
-            tr.position = Vector3.Lerp(startPosition, currentNodePosition, timer);
-            tr.rotation = Quaternion.Lerp(startRotation, currentNodeRotation, timer);
+            timer += nodeDurationStep * Time.deltaTime;
+
+            thisTransform.position = Vector2.Lerp(startNodePosition, targetNodePosition, timer);
+            thisTransform.rotation = Quaternion.Lerp(startNodeRotation, targetNodeRotation, timer * 1.2f);
         }
         else
-        {
             if (currentNode < nodes.Length - 1)
-            {
-                currentNode++;
+                AdvanceNode();
+            else
+                thisAnimator.SetBool("walking", false);
+    }
 
-                if (currentNode > 0)
-                    previousPosition = startPosition;
+    void AdvanceNode()
+    {
+        timer = 0;
 
-                CheckNode();
-            }
-        }
+        startNodePosition = thisTransform.position;
+        startNodeRotation = thisTransform.rotation;
 
-        if (currentNode >= nodes.Length - 1)
-        {
-            anim.Play("Idle");
-        }
+        currentNode++;
+
+        targetNodePosition = nodes[currentNode].GetPosition();
+        targetNodeRotation = Quaternion.Euler(0, 0, 
+            Vector3.Angle(targetNodePosition - startNodePosition, Vector3.right));  // Angle between X-Axis and Current/Next node vector
+
+        // Adapt the movement speed so that it's the same throughout all nodes
+        // long node distance => small time steps => bigger movement steps => same speed
+        // short node distance => longer time steps => smaller movement steps => same speed
+        float nodeDistance = Vector2.Distance(startNodePosition, targetNodePosition);
+        nodeDurationStep = pathDurationStep * pathDistance / nodeDistance;
     }
 }
